@@ -1,0 +1,5 @@
+123 paste 48
+456 soap 89
+789 clock 56
+741 pencil 32
+852 resin 23
